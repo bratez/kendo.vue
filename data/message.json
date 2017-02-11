@@ -1,0 +1,9 @@
+[
+  {
+    "popupTitle": "Confirmation",
+    "question": "Are you sure that your order will include",
+    "message": "Watches with RMC: &1 with price &2?",
+    "confirm": "Yes",
+    "cancel": "Cancel"
+  }
+]
